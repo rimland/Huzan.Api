@@ -4,14 +4,14 @@
     <!--<TargetFrameworks>net4.6.1;net4.6.2;netstandard2.0;netcoreapp2.2</TargetFrameworks>-->
     <TargetFrameworks>net452;netstandard2.0;netcoreapp2.2</TargetFrameworks>
     <Company>datamip.com</Company>
-    <Authors>Junhui Wang</Authors>
+    <Authors>Rimland</Authors>
     <Description>（虎赞）51Zan 开放平台接口</Description>
     <Copyright>datamip.com</Copyright>
     <PackageReleaseNotes>first time publish.</PackageReleaseNotes>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-    <PackageIconUrl>https://avatars2.githubusercontent.com/u/6210578</PackageIconUrl>
-    <PackageProjectUrl>https://github.com/rimland/csharp-sdk</PackageProjectUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/rimland/Huzan.Api/master/huzan_icon.png</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/rimland/Huzan.Api</PackageProjectUrl>
     <!--<PackageLicenseUrl>https://licenses.nuget.org/MIT</PackageLicenseUrl>-->
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
