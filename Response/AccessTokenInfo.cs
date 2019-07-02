@@ -13,7 +13,7 @@ namespace Huzan.Api.Response
         /// </summary>
         public string access_token { get; set; }
         /// <summary>
-        /// int	该Access Token的有效期，单位为秒。
+        /// string	应用AppID
         /// </summary>
         public string app_id { get; set; }
         /// <summary>
@@ -21,7 +21,7 @@ namespace Huzan.Api.Response
         /// </summary>
         public int company_id { get; set; }
         /// <summary>
-        /// string	应用AppID
+        /// int	该Access Token的有效期，单位为秒。
         /// </summary>
         public int expires_in { get; set; }
     }
